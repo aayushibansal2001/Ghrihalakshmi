@@ -1,14 +1,26 @@
-# SIH
-Project: Ghrihalakmi
+# Grihalakshmi
 
-Team: Sarang
+‘Grihalakshmi’ literally translates to ‘Goddess of the house’. Our aim is to encourage women to be independent and earn their livelihood. We aim to promote women’s community participation and connect those with common skills, by developing a platform to encourage women to interact, learn and develop their skills.
 
-Theme: Women Empowerment
+# In Action
+![Main_page](gl1.jpg)
 
-Product: Web Application
+This is the main webpage in English
 
-A quick description:
+![Main_page](gl2.jpg)
 
-It is a women oriented website whose endeavour is to redefine ‘Homemaking’, not restricting women to just household work, but to empower them through building community and provide them a platform to interact , learn and transform their skills into a successful small scale business. Our website focuses on 2 most significant, marketable skills of homemakers: Cooking, and Stitching.
+This is the main webpage in Hindi
 
-Technology used: HTML, CSS, Bootstarp4, Javascript
+![Main_page](gl3.jpg)
+
+This is the sign up page
+
+![Main_page](gl4.jpg)
+
+This is the contact us page
+
+# Authors
+
+Amandeep Kaur, Drishti Gupta, Srinidhi Ayyagari, Aayushi Bansal
+
+
